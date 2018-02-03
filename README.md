@@ -1,2 +1,2 @@
 # Basic-Portfolio
-HTML/CSS Assignment
+Basic Portfolio Assignment
